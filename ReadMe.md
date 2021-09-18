@@ -1,10 +1,17 @@
-![alt text](https://raw.githubusercontent.com/Onebestever/Onebestever/main/images/Screen%20Shot%202021-09-15%20at%206.48.36%20AM.png)
 
-This is a zodiac calender that I created. You enter your birthdate and it reveals to you what other rapper shares the same sign as you. At first 
+# Zodiac
+
+** link to project **
+
+![preview](week4/classwork/zodiac/images/preview.png)
+
+### How It’s Made
+The zodiac calendar was really fun to do  using the both comparison & logical  operators that compared two different values to not be exactly the same but similar & or lesser than or greater than. In this examples month & day were the values. Depending on the number of day & month it displayed your zodiac sign.
 
 
-<h2>hello this is test </h2>
+** Langs used **
+HTML, CSS, JAVASCRIPT
+### optimizations
 
-
-
-
+### Lessons Learned
+The lesson I learned was how powerful logical and comparison numerators are and how flexible they can be with creating Boolean functions.
